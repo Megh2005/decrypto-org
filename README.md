@@ -145,7 +145,7 @@ git pull-request [username] [branch]
 
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://decrypto-eight.vercel.app/)
 &nbsp;
-[![Netlify](https://skillicons.dev/icons?i=netlify)](https://decrypto-eight.vercel.app/)
+[![Netlify](https://skillicons.dev/icons?i=netlify)](https://decrypto-org.netlify.app//)
 &nbsp;
 
 ## Demo Images

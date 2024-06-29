@@ -9,13 +9,13 @@ Decrypto is a web application with which most trending crypto currencies can be 
 > Clone This Repository
 
 ```sh
-git clone https://github.com/Megh2005/Quest1-Shepherd.git
+git clone https://github.com/Megh2005/decrypto-org.git
 ```
 
 > Navigate To The Code File
 
 ```sh
-cd Chatopedia
+cd decrypto-org
 ```
 
 > Install All Dependencies
@@ -33,7 +33,7 @@ code .
 > Run The Project
 
 ```sh
-npm run dev
+npm start
 ```
 
 > Project URL
@@ -68,7 +68,7 @@ Contributions are happily accepted. If you have any ideas for improvements & new
 > Fork The Repository
 
 ```sh
-git remote -v https://github.com/Megh2005/Quest1-Shepherd.git
+git remote -v https://github.com/Megh2005/decrypto-org.git
 ```
 
 > Create New Branch
